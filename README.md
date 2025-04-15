@@ -41,6 +41,7 @@ GAIOS is an open-source, intent-based programming language designed to unify AI 
 
 
 **Puff** 
+
 Secure, ephemeral messaging with one-time-use links
 Puff is a privacy-first mobile app built for secure, temporary conversations. Powered by the Signal Protocol, it ensures end-to-end encryption and forward secrecy. Create a chat room with a single tap, share a unique link (e.g., puff.com/ABC123XYZ) that expires after 10 minutes or one use, and watch messages vanish after being read. With a minimalist single-screen interface, Puff makes private messaging simple, safe, and fleeting.ub**  
 A SaaS platform that allows users to interact with multiple AI models (ChatGPT, Gemini, Grok, DeepSeek) from a single interface.  
