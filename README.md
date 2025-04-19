@@ -40,16 +40,4 @@ Experienced software developer with a strong focus on delivering scalable, relia
 GAIOS is an open-source, intent-based programming language designed to unify AI systems, smart devices, and complex workflows. Inspired by military command structures, it offers a clear, hierarchical syntax for seamless automation and integration. With modularity, natural language processing (NLP) support, and real-time control, GAIOS empowers developers to build scalable solutions across industries like IoT, AI, and enterprise workflows.
 
 
-**Puff** 
-Secure, ephemeral messaging with one-time-use links
-Puff is a privacy-first mobile app built for secure, temporary conversations. Powered by the Signal Protocol, it ensures end-to-end encryption and forward secrecy. Create a chat room with a single tap, share a unique link (e.g., puff.com/ABC123XYZ) that expires after 10 minutes or one use, and watch messages vanish after being read. With a minimalist single-screen interface, Puff makes private messaging simple, safe, and fleeting.
 
-**CryptoWalletApp**  
-A secure and user-friendly mobile application for managing cryptocurrency wallets and tracking real-time market data.  
-*Technologies: Flutter, Web3.js*
-
-**Ustad.ai**
-Ustad.ai is an AI-powered SaaS platform designed to revolutionize legal research and assistance in Turkey. Leveraging a fine-tuned LLM and RAG architecture, it provides accurate, context-aware answers to legal queries, specializing in Turkish laws, case law, and jurisprudence. From drafting legal documents to analyzing precedents, Ustad.ai empowers lawyers, students, and professionals with fast and reliable legal insights.
-
- **SeeThroughEyes**
-SeeThroughEyes is a mobile app/SaaS project that lets users experience social media through the eyes of a chosen celebrity or influencer. By aggregating public posts from accounts followed by the selected person on platforms like Instagram or X, it creates a unified feed, offering a unique perspective on their interests and networks. Perfect for fans, journalists, and researchers, SeeThroughEyes provides a fresh way to explore social media dynamics and discover new content.
