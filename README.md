@@ -32,15 +32,7 @@ Experienced software developer with a strong focus on delivering scalable, relia
 **DevOps & Tools**  
 - Docker, GitHub Actions, Git, AWS
 
----
 
-## Selected Projects
 
-**GAIOS**  
-GAIOS is an open-source, intent-based programming language designed to unify AI systems, smart devices, and complex workflows. Inspired by military command structures, it offers a clear, hierarchical syntax for seamless automation and integration. With modularity, natural language processing (NLP) support, and real-time control, GAIOS empowers developers to build scalable solutions across industries like IoT, AI, and enterprise workflows.
-
-**Dynalink Project** 
-
-Dynalink Generator: Censorship-Resistant Dynamic Links for Free Publishing Flask · Python · Anti-Censorship · Open Source Create dynamic, auto-rotating links that evade censorship blocks.
 
 
